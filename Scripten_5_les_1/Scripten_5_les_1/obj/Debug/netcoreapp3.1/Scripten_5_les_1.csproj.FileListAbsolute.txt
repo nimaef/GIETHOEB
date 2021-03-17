@@ -1,0 +1,13 @@
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\bin\Debug\netcoreapp3.1\Scripten_5_les_1.exe
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\bin\Debug\netcoreapp3.1\Scripten_5_les_1.deps.json
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\bin\Debug\netcoreapp3.1\Scripten_5_les_1.runtimeconfig.json
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\bin\Debug\netcoreapp3.1\Scripten_5_les_1.runtimeconfig.dev.json
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\bin\Debug\netcoreapp3.1\Scripten_5_les_1.dll
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\bin\Debug\netcoreapp3.1\Scripten_5_les_1.pdb
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.csprojAssemblyReference.cache
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.AssemblyInfoInputs.cache
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.AssemblyInfo.cs
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.csproj.CoreCompileInputs.cache
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.dll
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.pdb
+C:\Users\nimaf\OneDrive - SintLucas\SCRIPTING\Scripten_5\Scripten_5_les_1\Scripten_5_les_1\obj\Debug\netcoreapp3.1\Scripten_5_les_1.genruntimeconfig.cache
